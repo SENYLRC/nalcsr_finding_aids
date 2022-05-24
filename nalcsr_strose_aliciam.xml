@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nalcsr" url="file:/usr/local/projects/migration_scripts/nyead/ead/nalcsr/STROSE_aliciam.xml">nalcsr_strose_aliciam</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Aliciam</num>
+                </titleproper>
+                <author>Finding aid prepared by Thomas Nucci</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The College of Saint Rose Archives</publisher>
+                <date>11/24/2008</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-11-25T09:33-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>5/25/2010</date>
+                <item>Revised by Maria Kessler McShane</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Aliciam Collection</unittitle>
+            <unitid>Aliciam</unitid>
+            <repository>
+                <corpname>The College of Saint Rose Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.4 Linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="1845/1957" type="inclusive">1845-1957</unitdate>
+            <abstract id="ref33" label="Abstract">This collection includes materials by and about Alice Meynell. Most notably, however, is the collection of famous authors&#x2019; signatures and correspondence.</abstract>
+            <origination label="creator">
+                <persname rules="local" source="local">Moran, John Joseph, Sister</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref34">
+            <head>Conditions Governing Access note</head>
+            <p>There are no restrictions to this collection.</p>
+        </accessrestrict>
+        <prefercite id="ref35">
+            <head>Preferred Citation note</head>
+            <p>Aliciam Collection, 1845-1957. The College of Saint Rose Archives and Special Collections.</p>
+        </prefercite>
+        <userestrict id="ref36">
+            <head>Conditions Governing Use note</head>
+            <p>The researcher assumes full responsibility for conforming with the laws of copyright. Permission to publish material must be obtained in writing prior to publication from the College Archivist, The College of Saint Rose, Neil Hellman Library, Archives and Special Collections, 432 Western Avenue, Albany, NY 12203.</p>
+        </userestrict>
+        <bioghist id="ref37">
+            <head>Biographical/Historical note</head>
+            <p>
+                <blockquote>
+                    <p>Aliciam began as the honorary, literary society of Saint Rose in December 1930. The members named the club, Aliciam, as a tribute to an English woman poet, essayist, and critic. This woman was Alice Meynell, one of the first popular woman poets. Mr. Wilfrid Meynell, her husband, became the first member of Aliciam.</p>
+                </blockquote>
+            </p>
+            <p>
+                <blockquote>
+                    <p>The club was for those majoring or minoring in English, and an average of over 85 was required to join. There were monthly meetings in which the members read and discussed outstanding poetry. Each member had to present one long critical paper within the year. In the early 1950's there was a slight change to include more genres of literature, rather than concentrating completely on poetry. They ceased writing papers and, instead, showed literary films and put on plays. The group collected signatures of famous authors and poets.</p>
+                </blockquote>
+            </p>
+            <p>
+                <blockquote>
+                    <p>The first officers were Monica Branigan-president, Helen Welsh-vice president, Nan Maginn-secretary, and Helen Wheeler-treasurer. Sister John Joseph Moran started Aliciam, and administered it until she retired. Sister Jeanne Pierre Mittnight took charge and changed the name to The Literary Society in 1966. In 1977 she dissolved it because there was no longer an interest in departmental clubs.</p>
+                </blockquote>
+            </p>
+        </bioghist>
+        <arrangement id="ref39">
+            <head>Arrangement note</head>
+            <p>This collection is divided into the following series:<blockquote>
+                    <p>Materials about Alice Meynell and Family, 1946-1948</p>
+                </blockquote>
+                <blockquote>
+                    <p>Materials by Alice Meynell, 1902-1931</p>
+                </blockquote>
+                <blockquote>
+                    <p>Correspondence, 1931-1951</p>
+                </blockquote>
+                <blockquote>
+                    <p>Famous Authors&#x2019; Letters and Correspondence, 1845-1957</p>
+                </blockquote>
+            </p>
+        </arrangement>
+        <controlaccess>
+            <persname rules="local" source="local">Mittnight, Jeanne Pierre, Sister</persname>
+        </controlaccess>
+        <dsc>
+            <c id="ref2" level="series">
+                <did>
+                    <unittitle>Materials about Alice Meynell and Family</unittitle>
+                    <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+                </did>
+                <c id="ref3" level="file">
+                    <did>
+                        <unittitle>Thesis: "Contemporary criticism, personal and literary, of Alice Meynell." Aileem R. Mahar. Boston University Graduate School.</unittitle>
+                        <container id="cid22028" type="box" label="Text">1</container>
+                        <container parent="cid22028" type="folder">1</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c>
+                <c id="ref4" level="file">
+                    <did>
+                        <unittitle>Newspaper Clippings</unittitle>
+                        <container id="cid22027" type="box" label="Text">1</container>
+                        <container parent="cid22027" type="folder">2</container>
+                        <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref5" level="series">
+                <did>
+                    <unittitle>Materials by Alice Meynell</unittitle>
+                    <unitdate normal="1902/1931" type="inclusive">1902-1931</unitdate>
+                </did>
+                <c id="ref6" level="file">
+                    <did>
+                        <unittitle>Letter: From Alice Meynell to?</unittitle>
+                        <container id="cid22026" type="box" label="Text">1</container>
+                        <container parent="cid22026" type="folder">3</container>
+                        <unitdate normal="1902/1902">04/02/1902?</unitdate>
+                    </did>
+                </c>
+                <c id="ref7" level="file">
+                    <did>
+                        <unittitle>Essays of Today and Yesterday, signed by Wilfrid Meynell</unittitle>
+                        <container id="cid22025" type="box" label="Text">1</container>
+                        <container parent="cid22025" type="folder">4</container>
+                        <unitdate normal="1926/1926">1926</unitdate>
+                    </did>
+                </c>
+                <c id="ref8" level="file">
+                    <did>
+                        <unittitle>Selected Poems of Alice Meynell, signed by Wilfrid Meynell</unittitle>
+                        <container id="cid22024" type="box" label="Text">1</container>
+                        <container parent="cid22024" type="folder">5</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref9" level="file">
+                    <did>
+                        <unittitle>The Augustan Books of Modern Poetry, signed by Wilfrid Meynell</unittitle>
+                        <container id="cid22023" type="box" label="Text">1</container>
+                        <container parent="cid22023" type="folder">6</container>
+                        <unitdate normal="1931/1931">1931?</unitdate>
+                    </did>
+                </c>
+                <c id="ref10" level="file">
+                    <did>
+                        <unittitle>I am the Way</unittitle>
+                        <container id="cid22022" type="box" label="Text">1</container>
+                        <container parent="cid22022" type="folder">7</container>
+                        <physdesc>
+                            <extent>5.0 Item(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1902/1931" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref11" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitdate normal="1931/1951" type="inclusive">1931-1951</unitdate>
+                </did>
+                <c id="ref12" level="file">
+                    <did>
+                        <unittitle>Letter: To Sister John Joseph Moran from Wilfrid Meynell</unittitle>
+                        <container id="cid22021" type="box" label="Text">1</container>
+                        <container parent="cid22021" type="folder">8</container>
+                        <unitdate normal="1931/1931">1/8/1931</unitdate>
+                    </did>
+                </c>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle>Letter: To Aliciam member Monica Branigan from Wilfrid Meynell</unittitle>
+                        <container id="cid22020" type="box" label="Text">1</container>
+                        <container parent="cid22020" type="folder">9</container>
+                        <unitdate normal="1931/1931">5/11/1931</unitdate>
+                    </did>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle>Letter: To Sister John Joseph Moran from Wilfrid Meynell</unittitle>
+                        <container id="cid22019" type="box" label="Text">1</container>
+                        <container parent="cid22019" type="folder">10</container>
+                        <unitdate normal="1943/1943">8/11/1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Letter: To Sister John Joseph Moran from Viola Dallyn</unittitle>
+                        <container id="cid22018" type="box" label="Text">1</container>
+                        <container parent="cid22018" type="folder">11</container>
+                        <unitdate normal="1951/1951">2/21/1951</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref16" level="series">
+                <did>
+                    <unittitle>Famous Authors&#x2019; Letters and Correspondence</unittitle>
+                    <unitdate normal="1845/1957" type="inclusive">1845-1957</unitdate>
+                </did>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>Joseph Campbell</unittitle>
+                        <container id="cid22017" type="box" label="Text">1</container>
+                        <container parent="cid22017" type="folder">12</container>
+                        <unitdate normal="1930/1934" type="inclusive">1930 and 1934</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>Thomas Campbell</unittitle>
+                        <container id="cid22016" type="box" label="Text">1</container>
+                        <container parent="cid22016" type="folder">13</container>
+                        <unitdate normal="1845/1957" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>G.K. Chestertown</unittitle>
+                        <container id="cid22015" type="box" label="Text">1</container>
+                        <container parent="cid22015" type="folder">14</container>
+                        <unitdate normal="1845/1957" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>James Fenimore Cooper</unittitle>
+                        <container id="cid22014" type="box" label="Text">1</container>
+                        <container parent="cid22014" type="folder">15</container>
+                        <unitdate normal="1845/1845">06/16/1845</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Robert Frost</unittitle>
+                        <container id="cid22013" type="box" label="Text">1</container>
+                        <container parent="cid22013" type="folder">16</container>
+                        <unitdate normal="1934/1944" type="inclusive">1934 and 1944</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Florence Hardy</unittitle>
+                        <container id="cid22012" type="box" label="Text">1</container>
+                        <container parent="cid22012" type="folder">17</container>
+                        <unitdate normal="1930/1930">3/11/1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>Jay William Hudson</unittitle>
+                        <container id="cid22011" type="box" label="Text">1</container>
+                        <container parent="cid22011" type="folder">18</container>
+                        <unitdate normal="1940/1940">5/18/1940</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Vachel Lindsay</unittitle>
+                        <container id="cid22010" type="box" label="Text">1</container>
+                        <container parent="cid22010" type="folder">19</container>
+                        <unitdate normal="1845/1957" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Jacques and Raissa Maritain</unittitle>
+                        <container id="cid22009" type="box" label="Text">1</container>
+                        <container parent="cid22009" type="folder">20</container>
+                        <unitdate normal="1957/1957">12/13/1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Alfred Noyes</unittitle>
+                        <container id="cid22008" type="box" label="Text">1</container>
+                        <container parent="cid22008" type="folder">21</container>
+                        <unitdate normal="1845/1957" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>E.G. Robinson</unittitle>
+                        <container id="cid22007" type="box" label="Text">1</container>
+                        <container parent="cid22007" type="folder">22</container>
+                        <unitdate normal="1933/1933">2/28/1933</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Carl Sandburg</unittitle>
+                        <container id="cid22006" type="box" label="Text">1</container>
+                        <container parent="cid22006" type="folder">23</container>
+                        <unitdate normal="1951/1951">10/20/1951</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>unknown</unittitle>
+                        <container id="cid22005" type="box" label="Text">1</container>
+                        <container parent="cid22005" type="folder">24</container>
+                        <unitdate normal="1865/1865">10/28/1865</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>unknown</unittitle>
+                        <container id="cid22004" type="box" label="Text">1</container>
+                        <container parent="cid22004" type="folder">25</container>
+                        <unitdate normal="1889/1889">04/09/1889</unitdate>
+                    </did>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>unknown</unittitle>
+                        <container id="cid22003" type="box" label="Text">1</container>
+                        <container parent="cid22003" type="folder">26</container>
+                        <unitdate normal="1900/1900">11/27/1900?</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>unknown</unittitle>
+                        <container id="cid22002" type="box" label="Text">1</container>
+                        <container parent="cid22002" type="folder">27</container>
+                        <unitdate normal="1936/1936">2/10/1936</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

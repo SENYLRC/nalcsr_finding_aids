@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nalcsr" url="file:/usr/local/projects/migration_scripts/nyead/ead/nalcsr/STROSE_heritagebox.xml">nalcsr_strose_heritagebox</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>HeritageBox</num>
+                </titleproper>
+                <author>Finding aid prepared by Melissa Tacke</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The College of Saint Rose Archives</publisher>
+                <date>1/12/2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-11-25T09:35-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Heritage Box of the Sisters of St. Joseph (ACSSJ)</unittitle>
+            <unitid>HeritageBox</unitid>
+            <repository>
+                <corpname>The College of Saint Rose Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.4 Linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="2002/2002">c. 2002</unitdate>
+            <abstract id="ref20" label="Abstract">This collection consists of materials created by the Association of the Colleges of Sisters of Saint Joseph (ACSSJ) to aid in educational, orientation, and enrichment activities at its member colleges.</abstract>
+        </did>
+        <accessrestrict id="ref19">
+            <head>Conditions Governing Access note</head>
+            <p>There are no access restrictions to this collection.</p>
+        </accessrestrict>
+        <bioghist id="ref21">
+            <head>Biographical/Historical note</head>
+            <p>
+                <blockquote>
+                    <p>The Association of Colleges of Sisters of Saint Joseph (ACSSJ) is an association intended to link American colleges founded by the Sisters of Saint Joseph, provide resources for faculty, staff, and students at member colleges, and encourage &#x201C;mission integration&#x201D; on campus at each member college. The ACSSJ formed as a board of presidents from member colleges in the 1990&#x2019;s. The organization appointed its first Executive Director in 2000.</p>
+                </blockquote>
+            </p>
+            <p>
+                <blockquote>
+                    <p>Scholars from the member colleges of the ACSSJ prepared the materials in the Heritage Box and distributed them to ACSSJ&#x2019;s eight member institutions in 2002. All of the member colleges were founded by some group of Sisters of Saint Joseph. The member colleges at the time the Heritage Box was distributed included Avila University in Kansas City, Missouri, Chestnut Hill College in Philadelphia, Pennsylvania, Elms College in Chicopee, Massachusetts, Fontbonne University in St. Louis, Missouri, Mount St. Mary's College in Los Angeles, California, Regis College in Westin, Massachusetts, The College of St. Catherine in St. Paul, Minnesota, and The College of Saint Rose in Albany, New York. Four other American colleges founded by the Sisters of Saint Joseph were not member colleges at the time the Heritage Box was distributed.</p>
+                </blockquote>
+            </p>
+        </bioghist>
+        <scopecontent id="ref22">
+            <head>Scope and Contents note</head>
+            <p>
+                <blockquote>
+                    <p>Series 1 includes essays, articles, prayers, promotional pamphlets and brochures, multimedia presentations and presentation guides. These materials are primarily intended to assist college administrators, faculty, and staff in creating and conducting presentations for the member college community in various areas, including orientations, prayer services, informational sessions on the ACSSJ&#x2019;s Student Exchange Program, as well as to shape member colleges&#x2019; mission, policies, and practices.</p>
+                </blockquote>
+            </p>
+            <p>
+                <blockquote>
+                    <p>Series 2 includes essays, lectures, and articles that briefly detail the history of the Sisters of Saint Joseph in France and in the United States and discuss the history and future of Catholic colleges. Bibliographies for further reading are included.</p>
+                </blockquote>
+            </p>
+        </scopecontent>
+        <arrangement id="ref23">
+            <head>Arrangement note</head>
+            <p>
+                <blockquote>
+                    <p>The original arrangement of the Heritage Box, as it was donated to the Archives and Special Collections, has been preserved.</p>
+                </blockquote>
+            </p>
+            <p>
+                <blockquote>
+                    <p>Folders and documents in Series 1 have been retained in their original thematic order.</p>
+                </blockquote>
+            </p>
+            <p>
+                <blockquote>
+                    <p>Folders comprising Series 2, which were originally housed in a binder, have been retained in their original thematic and chronological order.</p>
+                </blockquote>
+            </p>
+        </arrangement>
+        <processinfo id="ref24">
+            <head>Processing Information note</head>
+            <p>Data from five 3 &#xBD;&#x201D; floppy disks in the collection have been transferred to CD and have been added to the collection.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname rules="dacs" source="local">Association of Colleges of Sisters of Saint Joseph.</corpname>
+            <corpname rules="dacs" source="local">Avila University. (Kansas City, Mo.)</corpname>
+            <corpname rules="dacs" source="local">Chestnut Hill College. (Philadelphia, Pa.)</corpname>
+            <corpname rules="dacs" source="local">College of St. Catherine. (St. Paul, Minn.)</corpname>
+            <corpname rules="dacs" source="local">Elms College. (Chicopee, Mass.)</corpname>
+            <corpname rules="dacs" source="local">Fontbonne University. (St. Louis, Mo.)</corpname>
+            <persname rules="dacs" source="local">Medaille, Jean-Pierre, 1610-1669</persname>
+            <corpname rules="dacs" source="local">Mount St. Mary's College. (Los Angeles, Calif.)</corpname>
+            <corpname rules="dacs" source="local">Regis College. (Westin, Mass.)</corpname>
+            <corpname source="ingest">Sisters of Saint Joseph of Carondelet.</corpname>
+            <subject source="lcsh">Catholic learning and scholarship</subject>
+            <subject source="lcsh">Catholic universities and colleges -- United States</subject>
+            <subject source="lcsh">Catholic universities and colleges -- United States -- History -- 20th century</subject>
+            <subject source="lcsh">Catholic women -- Education (Higher) -- United States -- History</subject>
+            <subject source="lcsh">College student orientation</subject>
+            <subject source="lcsh">Education, Higher -- Aims and objectives -- United States</subject>
+            <subject source="lcsh">Education, Higher -- Moral and ethical aspects</subject>
+            <geogname source="lcsh">Le Puy (Haute-Loire, France)</geogname>
+            <subject source="lcsh">Monasticism and religious orders for women -- France -- History -- 17th century</subject>
+            <subject source="lcsh">Monasticism and religious orders for women -- France -- History -- 18th century</subject>
+            <subject source="lcsh">Monasticism and religious orders for women -- United States -- History -- 19th century</subject>
+            <subject source="lcsh">Monasticism and religious orders for women -- United States -- History -- 20th century</subject>
+            <geogname source="lcsh">Saint Louis (Mo.)</geogname>
+            <subject source="lcsh">Women&#x2019;s colleges -- United States -- History</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref2" level="series">
+                <did>
+                    <unittitle>Heritage Box Materials</unittitle>
+                </did>
+                <c id="ref3" level="file">
+                    <did>
+                        <unittitle>About the Heritage Box</unittitle>
+                        <container id="cid26326" type="box" label="Text">1</container>
+                        <container parent="cid26326" type="folder">1</container>
+                        <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+                    </did>
+                </c>
+                <c id="ref4" level="file">
+                    <did>
+                        <unittitle>Articles and Presentations</unittitle>
+                        <container id="cid26325" type="box" label="Text">1</container>
+                        <container parent="cid26325" type="folder">2</container>
+                        <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+                    </did>
+                </c>
+                <c id="ref5" level="file">
+                    <did>
+                        <unittitle>The Association of Colleges of Sisters of Saint Joseph</unittitle>
+                        <container id="cid26324" type="box" label="Text">1</container>
+                        <container parent="cid26324" type="folder">3</container>
+                        <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref6" level="file">
+                    <did>
+                        <unittitle>The Catholic Intellectual Tradition</unittitle>
+                        <container id="cid26323" type="box" label="Text">1</container>
+                        <container parent="cid26323" type="folder">4</container>
+                        <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref7" level="file">
+                    <did>
+                        <unittitle>Mission Integration</unittitle>
+                        <container id="cid26322" type="box" label="Text">1</container>
+                        <container parent="cid26322" type="folder">5</container>
+                        <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                    </did>
+                </c>
+                <c id="ref8" level="file">
+                    <did>
+                        <unittitle>Orientation Guides</unittitle>
+                        <container id="cid26321" type="box" label="Text">1</container>
+                        <container parent="cid26321" type="folder">6</container>
+                        <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+                    </did>
+                </c>
+                <c id="ref9" level="file">
+                    <did>
+                        <unittitle>Prayers and Prayer Services</unittitle>
+                        <container id="cid26320" type="box" label="Text">1</container>
+                        <container parent="cid26320" type="folder">7</container>
+                        <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref10" level="file">
+                    <did>
+                        <unittitle>Sample Mission/Heritage Items</unittitle>
+                        <container id="cid26319" type="box" label="Text">1</container>
+                        <container parent="cid26319" type="folder">8</container>
+                        <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+                    </did>
+                </c>
+                <c id="ref11" level="file">
+                    <did>
+                        <unittitle>Student Exchange Program of ACSSJ</unittitle>
+                        <container id="cid26318" type="box" label="Text">1</container>
+                        <container parent="cid26318" type="folder">9</container>
+                        <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+                    </did>
+                </c>
+                <c id="ref12" level="file">
+                    <did>
+                        <unittitle>Videos - History and Heritage</unittitle>
+                        <container id="cid26317" type="box" label="Text">1</container>
+                        <container parent="cid26317" type="folder">10</container>
+                        <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref13" level="series">
+                <did>
+                    <unittitle>Essays on the History and Heritage of the Sisters of Saint Joseph</unittitle>
+                </did>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle>Introduction</unittitle>
+                        <container id="cid26316" type="box" label="Text">1</container>
+                        <container parent="cid26316" type="folder">11</container>
+                        <unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Early History</unittitle>
+                        <container id="cid26315" type="box" label="Text">1</container>
+                        <container parent="cid26315" type="folder">12</container>
+                        <unitdate normal="1988/1988">10/7/1988</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle>Americanization</unittitle>
+                        <container id="cid26314" type="box" label="Text">1</container>
+                        <container parent="cid26314" type="folder">13</container>
+                        <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                    </did>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>Twentieth Century</unittitle>
+                        <container id="cid26313" type="box" label="Text">1</container>
+                        <container parent="cid26313" type="folder">14</container>
+                        <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>A Future Heritage</unittitle>
+                        <container id="cid26312" type="box" label="Text">1</container>
+                        <container parent="cid26312" type="folder">15</container>
+                        <unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
